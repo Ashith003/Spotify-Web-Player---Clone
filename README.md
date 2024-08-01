@@ -35,7 +35,7 @@ This project is designed to be fully responsive, ensuring a seamless experience 
 
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. 
+   
 ## File Structure
 
 - `index.html`: The main HTML file containing the structure of the page.
