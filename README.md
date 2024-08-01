@@ -15,7 +15,7 @@ This project is a clone of the Spotify Web Player, built using HTML, CSS, and Fo
 
 ## Demo
 
-![Project Demo](Project-demo.jpg)
+![Project Demo](Project-Demo.jpg)
 
 ## Responsiveness
 
@@ -40,7 +40,7 @@ This project is designed to be fully responsive, ensuring a seamless experience 
 
 - `index.html`: The main HTML file containing the structure of the page.
 - `style.css`: The CSS file containing all the styles and animations.
-- `Project-demo.jpg`: The preview of the page.
+- `Project-Demo.jpg`: The preview of the page.
 - `README.md`: This file.
 
 ## Contributing
