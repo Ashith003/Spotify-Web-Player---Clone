@@ -54,13 +54,11 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - [Apna College](https://www.apnacollege.in/home-post-login)
 
 ## Contact
+- **Name: Ashith A V**
+- **Email: ashithavgowda@gmail.com**
+- **LinkedIn: https://www.linkedin.com/in/ashith-a-v-a3a0b1299**
 
-Contact
 For any questions or suggestions, feel free to reach out.
-
--**Name: Ashith A V**
--**Email: ashithavgowda@gmail.com**
--**LinkedIn: https://www.linkedin.com/in/ashith-a-v-a3a0b1299**
 
 ---
 
