@@ -43,11 +43,6 @@ This project is designed to be fully responsive, ensuring a seamless experience 
 - `Project-demo.jpg`: The preview of the page.
 - `README.md`: This file.
 
-## Dependencies
-
-- [Google Fonts - Poppins](https://fonts.googleapis.com/css2?family=Poppins&display=swap)
-- [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
