@@ -40,7 +40,7 @@ This project is designed to be fully responsive, ensuring a seamless experience 
 
 - `index.html`: The main HTML file containing the structure of the page.
 - `style.css`: The CSS file containing all the styles and animations.
-- 'images' : The image assests related to code.
+- `images`: The image assests related to code.
 - `Project-Demo.jpg`: The preview of the page.
 - `README.md`: This file.
 
