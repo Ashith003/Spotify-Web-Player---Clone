@@ -1,4 +1,4 @@
-# Spotify Web Player Clone
+# Spotify Web Clone
 
 This project is a clone of the Spotify Web Player, built using HTML, CSS, and Font Awesome for icons. It replicates the basic structure and styling of Spotify's web player, providing a familiar interface for music enthusiasts.
 
